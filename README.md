@@ -185,4 +185,4 @@ Contributions are welcome! Please:
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or feedback, contact [Your Name] at [you@example.com].
+For questions or feedback, contact Lucas Finger at lucasfinger@Outlook
