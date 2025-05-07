@@ -20,7 +20,7 @@ A simple command-line interface (CLI) for managing tasks. This tool allows you t
 ### Step 1: Clone or Download the Project
 Download the project files or clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Fing3r/taskTrackerCLI.git
 cd task-cli
 ```
 
