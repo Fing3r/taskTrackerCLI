@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "task-cli"
+version = "0.1.0"
+description = "A simple task management CLI"
+author = ["Luke"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+click = "^8.1"
+
+[tool.poetry.scripts]
+task-cli = "task_cli:cli"
