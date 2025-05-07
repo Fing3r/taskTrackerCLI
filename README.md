@@ -172,6 +172,9 @@ To extend or modify the CLI:
    poetry run python task_cli.py --help
    ```
 
+## Dedicatory
+1. https://roadmap.sh/projects/task-tracker
+
 ## Contributing
 Contributions are welcome! Please:
 1. Fork the repository.
